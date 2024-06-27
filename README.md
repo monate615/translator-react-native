@@ -1,18 +1,3 @@
-[![App](https://github.com/krtk-dev/translators/actions/workflows/ci-app.yml/badge.svg)](https://github.com/krtk-dev/translators/actions/workflows/ci-app.yml)
-[![Web](https://github.com/krtk-dev/translators/actions/workflows/ci-web.yml/badge.svg)](https://github.com/krtk-dev/translators/actions/workflows/ci-web.yml)
-[![Deploy Web](https://github.com/krtk-dev/translators/actions/workflows/cd-web.yml/badge.svg)](https://github.com/krtk-dev/translators/actions/workflows/cd-web.yml)
-[![codecov](https://codecov.io/gh/krtk-dev/translators/branch/main/graph/badge.svg)](https://codecov.io/gh/krtk-dev/translators)
-[![License GPL3.0](https://img.shields.io/github/license/krtk-dev/translators?style=plat)](LICENSE)
-
-![Stars](https://img.shields.io/github/stars/krtk-dev/translators?style=social)
-![Twitter](https://img.shields.io/twitter/follow/koreanthinker?style=social)
-
-
-![Typescript](https://img.shields.io/badge/Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=#3178C6)
-![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
-![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
-![Jest](https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=Jest&logoColor=#C21325)
-
 <img width="300" src="https://user-images.githubusercontent.com/48207131/154833198-8823ffe7-294d-4c11-a63a-c7209e5aece1.gif">
 
 ### Introduction
